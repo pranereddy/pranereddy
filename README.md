@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Praneeth Reddy Noti 
+# Praneeth Reddy Noti :slightly_smiling_face: 
 Hi there, I'm Praneeth, a senior devops engineer working on enabling InnerSource at Daimler. I live in India's Garden city :national_park: Bangalore.
 
 ### My Passion
