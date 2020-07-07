@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Praneeth Reddy Noti 
-Hi there, I'm Praneeth, a senior devops engineer working on enabling InnerSource at Daimler. I live in India's Garden city Bangalore.
+Hi there, I'm Praneeth, a senior devops engineer working on enabling InnerSource at Daimler. I live in India's Garden city :national_park Bangalore.
+
+### My Passion
+:motorcycle: Weekend drives on **Motorcylce**
+:computer: Learning new technologies
+:poultry_leg: :poultry_leg: Definetely a **Foodie** :yum:
 
