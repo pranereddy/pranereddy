@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **pranereddy/pranereddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Praneeth Reddy Noti 
+Hi there, I'm Praneeth, a senior devops engineer working on enabling InnerSource at Daimler. I live in India's Garden city Bangalore.
+
