@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 Hi there, I'm Praneeth, a senior devops engineer working on enabling InnerSource at Daimler. I live in India's Garden city :national_park Bangalore.
 
 ### My Passion
-:motorcycle: Weekend drives on **Motorcylce**
-:computer: Learning new technologies
-:poultry_leg: :poultry_leg: Definetely a **Foodie** :yum:
+
+* :motorcycle: Weekend drives on **Motorcylce**  
+* :computer: Learning new technologies  
+* :poultry_leg::poultry_leg: Definetely a **Foodie** :yum:  
 
