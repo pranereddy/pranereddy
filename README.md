@@ -18,7 +18,7 @@ Hi there, I'm Praneeth, a senior devops engineer working on enabling InnerSource
 
 ### My Passion
 
-* :motorcycle: Weekend drives on **Motorcylce**  
-* :computer: Learning new technologies  
-* :poultry_leg::poultry_leg: Definetely a **Foodie** :yum:  
+:motorcycle: Weekend drives on **Motorcylce**  
+:computer: Learning new technologies  
+:poultry_leg::poultry_leg: Definetely a **Foodie** :yum:  
 
